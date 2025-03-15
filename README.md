@@ -9,7 +9,7 @@
 
 - 📫 Kontakt **majerann@proton.me**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sociale:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/majeran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="majeran" height="30" width="40" /></a>
 <a href="https://discord.gg/v7wdtjnRuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v7wdtjnRuT" height="30" width="40" /></a>
